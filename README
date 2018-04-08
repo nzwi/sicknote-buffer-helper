@@ -1,0 +1,1 @@
+Buffer app to complete background processes without hindering presentation layer - i.e. alexa or web. How? By checking if the 1st add patient transaction has been mined successfully on the ethereum network then processing the 2nd add sick note transaction.
